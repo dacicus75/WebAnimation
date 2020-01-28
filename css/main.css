@@ -1,6 +1,6 @@
 html,body {
     margin:0;
-    background:lightgray;
+    background:rgb(223, 227, 233);
     font-family: Arial;
 }
 
@@ -31,7 +31,7 @@ h1 {margin:0;}
     cursor:pointer;
 }
 
-p {color:gray;}
+p {color:rgb(226, 210, 210);}
 
 .msg {
     position: absolute;
