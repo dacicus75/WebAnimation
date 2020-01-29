@@ -1,5 +1,5 @@
 {
-  "name": "WebAnimation",
+  "name": "web_animation",
   "version": "1.0.0",
   "description": "UI animation using Popmotion library",
   "main": "index.js",
