@@ -1,10 +1,12 @@
-body {
-    font-family: sans-serif;
-    display: grid;
+html, body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    /* display: grid; */
+    background:rgb(223, 227, 233);
     height: 100vh;
     place-items: center;
   }
-  
+ 
   .base-timer {
     position: relative;
     width: 300px;
